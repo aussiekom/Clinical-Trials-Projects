@@ -1,2 +1,2 @@
-# EDA-covid19-trials
-Data Analysis on COVID-19 Clinical Trials
+# Exploratory Data Analysis on COVID19 Clinical Trials
+
