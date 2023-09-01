@@ -3,6 +3,8 @@
 ## Clinical Terminology
 Some basic definitions of the common clinical trial terminologies:
 
+![alt text](https://github.com/aussiekom/EDA-clinical-trials/blob/main/terminology.png)
+
 More terms and definitions:
 https://clinicaltrials.gov/study-basics/glossary
 
