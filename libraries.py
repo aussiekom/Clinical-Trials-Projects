@@ -28,13 +28,13 @@ cufflinks.go_offline()
 cufflinks.set_config_file(world_readable=True, theme='pearl')
 #py.init_notebook_mode(connected=True)
 
-#Geographical Plotting
+# Plotting
 import folium
 from folium import Choropleth, Circle, Marker
 from folium import plugins
 from folium.plugins import HeatMap, MarkerCluster
 
-#Racing Bar Chart
+# Bar Chart
 !pip install bar_chart_race
 import bar_chart_race as bcr
 from IPython.display import HTML
