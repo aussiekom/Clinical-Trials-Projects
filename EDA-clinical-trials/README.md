@@ -10,4 +10,4 @@ https://clinicaltrials.gov/study-basics/glossary
 
 
 
-**Disclaimer: This notebook and repository are meant only for the purpose of explaining basic techniques of data analysis. This is not meant to provide any medical advice of any kind for COVID-19. Please take all precautions and stay safe!**
+**Disclaimer: This notebook is meant only for the purpose of explaining basic techniques of data analysis. This is not meant to provide any medical advice of any kind for COVID-19. Please take all precautions and stay safe!**
