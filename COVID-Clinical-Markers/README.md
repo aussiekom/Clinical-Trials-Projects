@@ -24,10 +24,10 @@ To address these problems, this notebook deals with creating a ML Tool that can 
 4. Doing the Machine Learning
 
 
-#### What we actually know?
+#### 1. What we actually know?
 The World Health Organization (WHO) characterized COVID-19, caused by SARS-CoV-2, as a pandemic on March 11, while the exponential increase in the number of cases was risking to overwhelm health systems around the world with a demand for ICU beds far above the existing capacity, with regions of Italy being prominent examples
 
-#### The Dataset used in this notebook
+#### 2. The Dataset used in this notebook
 This work reports results from the Kaggle challenge Diagnosis of COVID-19 and its clinical spectrum created by the Hospital Israelita Albert Einstein in São Paulo, Brazil.
 
 The dataset contains anonymized data from patients seen at the Hospital Israelita Albert Einstein in São Paulo, Brazil, and who had samples collected to perform the SARS-CoV-2 RT-PCR and additional laboratory tests during a visit to the hospital.
