@@ -10,7 +10,7 @@ import string
 import nltk
 from nltk.corpus import stopwords
 
-# Visualisation libraries
+# libraries for visualisation 
 import matplotlib.pyplot as plt
 %matplotlib inline
 import seaborn as sns
