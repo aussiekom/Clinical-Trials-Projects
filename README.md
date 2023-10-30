@@ -1,4 +1,4 @@
-# Clinical trials and healthcare projects exploring innovative solutions
+## Clinical trials and healthcare projects exploring innovative solutions
 
 ### Clinical Terminology
 Some basic definitions of the common clinical trial terminologies:
