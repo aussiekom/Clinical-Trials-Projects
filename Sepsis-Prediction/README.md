@@ -62,6 +62,7 @@ List all the attributes in the data. Label continuous attributes with *c* and di
 * HospAdmTime - Hours between hospital admit and ICU admit
 * ICULOS - ICU length-of-stay (hours since ICU admit)
 
+
 **Outcome - column 41**
 * SepsisLabel - For sepsis patients, SepsisLabel is  1  if  t ≥ t sepsis−6  and  0  if  t < t sepsis−6 .
 * For non-sepsis patients, SepsisLabel is  0 .
