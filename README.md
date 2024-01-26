@@ -8,6 +8,6 @@ Some basic definitions of the common clinical trial terminologies:
 More terms and definitions:
 https://clinicaltrials.gov/study-basics/glossary
 
-
+ 
 
 **Disclaimer: This repository is meant only for the purpose of explaining techniques and features of exploring the clinical trials data. This is not meant to provide any medical advice of any kind for COVID-19 or any other diseases. Please take all precautions and stay safe!** 
